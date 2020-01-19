@@ -1,0 +1,7 @@
+All the projects can be compiled and run 
+by running the class "GrandSorcerersCircle" 
+that contains the main method.
+Tools used: IDE Intellij 
+Compiler: Gradle
+The classes can be found inside the src folder,
+in the main folder, in the java folder for every project.
